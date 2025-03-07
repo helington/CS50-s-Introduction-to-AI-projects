@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "shopping"
+version = "0.1.0"
+description = ""
+authors = ["helington <helington27@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+scikit-learn = "^1.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
