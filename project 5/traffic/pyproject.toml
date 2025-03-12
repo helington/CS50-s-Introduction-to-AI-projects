@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "traffic"
+version = "0.1.0"
+description = ""
+authors = ["helington <helington27@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+opencv-python = "^4.11.0.86"
+scikit-learn = "^1.6.1"
+tensorflow = "^2.18.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
