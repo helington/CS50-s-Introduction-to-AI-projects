@@ -143,6 +143,9 @@ def utility(board):
 
 
 def max_value(board, alpha=float('-inf'), beta=float('inf')):
+    """
+    Returns the max value, dealing with future values of the opponent
+    """
     if terminal(board):
         return utility(board)
 
@@ -156,6 +159,9 @@ def max_value(board, alpha=float('-inf'), beta=float('inf')):
 
 
 def min_value(board, alpha=float('-inf'), beta=float('inf')):
+    """
+    Returns the max value, dealing with future values of the opponent
+    """
     if terminal(board):
         return utility(board)
 

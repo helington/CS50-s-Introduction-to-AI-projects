@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "attention"
+version = "0.1.0"
+description = ""
+authors = ["helington <helington27@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pillow = "^11.1.0"
+tensorflow = "^2.19.0"
+transformers = "^4.49.0"
+tf-keras = "^2.19.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
