@@ -43,4 +43,4 @@ By the end of the course, students emerge with experience in machine learning li
 
 ## **Certificate**  
 
-My certificate is available at: [CS50 AI Certificate](https://certificates.cs50.io/871eea38-0fe5-4b31-a5e1-d1ae7681f591.pdf?size=letter)  
+My certificate is available at: [CS50 AI Certificate](https://courses.edx.org/certificates/2750c17b16104b75a81fc41747e2e600)  
