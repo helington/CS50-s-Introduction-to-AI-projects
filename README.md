@@ -1,44 +1,46 @@
-# CS50's Introduction to AI with Python.
+# **CS50's Introduction to AI with Python**  
 
-This repository contains mine solutions for [CS50's Introduction to AI with Python](https://cs50.harvard.edu/ai/2024/) course.
+This repository contains my solutions for [CS50's Introduction to AI with Python](https://cs50.harvard.edu/ai/2024/) course.  
 
-This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, machine learning, large language models, and other topics in artificial intelligence as they incorporate them into their own Python programs. By course’s end, students emerge with experience in libraries for machine learning as well as knowledge of artificial intelligence principles that enable them to design intelligent systems of their own.
+This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. Through hands-on projects, students gain exposure to the theory behind graph search algorithms, classification, optimization, machine learning, large language models, and other topics in artificial intelligence as they incorporate them into their own Python programs.  
 
-## Projects
+By the end of the course, students emerge with experience in machine learning libraries and a solid understanding of artificial intelligence principles, enabling them to design their own intelligent systems.  
 
-### Week 0 - Search
+## **Projects**  
 
-- [Degrees](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%200/degrees) : Implementation of a program that determines how many "degrees of separation" exist between two actors using the **Breadth-First search algorithm**.
-- [Tic Tac Toe](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%200/tictactoe) : Implementation of an AI that plays tic-tac-toe optimally using the **Minimax algorithm**.
+### **Week 0 - Search**  
 
-### Week 1 - Knowledge
+- [**Degrees**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%200/degrees): Implementation of a program that determines how many "degrees of separation" exist between two actors using the **Breadth-First Search algorithm**.  
+- [**Tic-Tac-Toe**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%200/tictactoe): Implementation of an AI that plays Tic-Tac-Toe optimally using the **Minimax algorithm**.  
 
-- [Knights](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%201/knights) : Implementation of a program that solves three Knights and Knaves Puzze using **propositional logic**.
-- [Mineesweeper](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%201/minesweeper) : Implementation of an AI that plays Mineesweeper using **Propositional Logic and Inferences**.
+### **Week 1 - Knowledge**  
 
-### Week 2 - Uncertainty
+- [**Knights**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%201/knights): Implementation of a program that solves three Knights and Knaves puzzles using **Propositional Logic**.  
+- [**Minesweeper**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%201/minesweeper): Implementation of an AI that plays Minesweeper using **Propositional Logic and Inferences**.  
 
-- [PageRank](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%202/pagerank) : Implementation of an AI that ranks web pages by importance using **Markov models**.
-- [Heredity](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%202/heredity) : Implementation of an AI that predicts the likewood that a person will have a particular trait using **Bayesian networks**.
+### **Week 2 - Uncertainty**  
 
-### Week 3 - Optimization
+- [**PageRank**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%202/pagerank): Implementation of an AI that ranks web pages by importance using **Markov Models**.  
+- [**Heredity**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%202/heredity): Implementation of an AI that predicts the likelihood that a person will have a particular trait using **Bayesian Networks**.  
 
-- [Crossword](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%203/crossword) : Implementation of an AI that solves crosswords puzzles using **Constraing Satisfaction**.
+### **Week 3 - Optimization**  
 
-### Week 4 - Optimazation
+- [**Crossword**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%203/crossword): Implementation of an AI that solves crossword puzzles using **Constraint Satisfaction**.  
 
-- [Shopping](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%204/shopping) : Implementation of an AI that predicts whether online shopping customers will complete a purchase using **K-Neighbors classifier**.
-- [Nim](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%204/nim) : Implementation of an AI that teaches itself to play using **Reinforcement Learnig**.
+### **Week 4 - Machine Learning**  
 
-### Week 5 - Neural Networks
+- [**Shopping**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%204/shopping): Implementation of an AI that predicts whether online shopping customers will complete a purchase using the **K-Nearest Neighbors (KNN) classifier**.  
+- [**Nim**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%204/nim): Implementation of an AI that teaches itself to play using **Reinforcement Learning**.  
 
-- [Traffic](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%205/traffic) : Implementation of an AI that identifies which traffic sign appears in a photograph using **Convulotianal Neural Networks**.
+### **Week 5 - Neural Networks**  
 
-### Week 6 - Language
+- [**Traffic**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%205/traffic): Implementation of an AI that identifies which traffic sign appears in a photograph using **Convolutional Neural Networks (CNNs)**.  
 
-- [Parser](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%206/parser) : Implementation of an AI that parses sentences and extract noun phrases **Context-Free Grammar**.
-- [Attention](https://github.com/helington/Artificial-Inteligence-projects-with-Python/tree/main/project%206/attention) : Implementation of an AI that predicts a masked word in a text sequence using **Attention and Transformers**.
+### **Week 6 - Language**  
 
-## Certificate
+- [**Parser**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%206/parser): Implementation of an AI that parses sentences and extracts noun phrases using **Context-Free Grammar (CFG)**.  
+- [**Attention**](https://github.com/helington/Artificial-Intelligence-projects-with-Python/tree/main/project%206/attention): Implementation of an AI that predicts a masked word in a text sequence using **Attention Mechanisms and Transformers**.  
 
-My certificate is available on: https://certificates.cs50.io/871eea38-0fe5-4b31-a5e1-d1ae7681f591.pdf?size=letter
+## **Certificate**  
+
+My certificate is available at: [CS50 AI Certificate](https://certificates.cs50.io/871eea38-0fe5-4b31-a5e1-d1ae7681f591.pdf?size=letter)  
